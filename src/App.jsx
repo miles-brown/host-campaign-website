@@ -27,7 +27,6 @@ import {
   ChevronRight,
   ArrowUp
 } from 'lucide-react'
-import './App.css'
 import ScrollToTop from './ScrollToTop'
 
 // Import assets
