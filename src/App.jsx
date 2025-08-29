@@ -31,7 +31,6 @@ import './App.css'
 // Import assets
 import hostLogoMain from './assets/host_logo_main.png'
 import hostLogoHorizontal from './assets/host_logo_horizontal.png'
-import hostLogoGrayscale from './assets/host_logo_grayscale.png'
 import hostLogoStacked from './assets/host_logo_stacked.png'
 
 // Navigation Component
