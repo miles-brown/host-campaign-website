@@ -27,6 +27,7 @@ import {
   ArrowUp
 } from 'lucide-react'
 import './App.css'
+import ScrollToTop from './ScrollToTop'
 
 // Import assets
 import hostLogoMain from './assets/host_logo_main.png'
@@ -4454,7 +4455,7 @@ const Footer = () => {
 }
 
 // Scroll to Top Button
-const ScrollToTop = () => {
+const ScrollToTopButton = () => {
   const [isVisible, setIsVisible] = useState(false)
 
   useEffect(() => {
@@ -4495,6 +4496,7 @@ const ScrollToTop = () => {
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen">
         <Navigation />
         <Routes>
@@ -4511,7 +4513,7 @@ function App() {
           <Route path="/legal" element={<LegalPage />} />
         </Routes>
         <Footer />
-        <ScrollToTop />
+        <ScrollToTopButton />
       </div>
     </Router>
   )
