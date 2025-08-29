@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react'
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Link, useLocation, useSearchParams } from 'react-router-dom'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
+import NewsTopicSelect from '@/components/NewsTopicSelect'
 import { 
   Home, 
   FileText, 
@@ -990,8 +991,6 @@ const AboutHowWeWorkSection = () => {
 
 // News Page with Categories and Comprehensive Content
 const NewsPage = () => {
-  const [activeCategory, setActiveCategory] = useState('all')
-
   const categories = [
     { id: 'all', title: 'All Stories', count: 15 },
     { id: 'policy', title: 'Policy Updates', count: 4 },
@@ -1000,6 +999,27 @@ const NewsPage = () => {
     { id: 'disaster', title: 'Airbnb Disasters', count: 2 },
     { id: 'research', title: 'Research & Data', count: 2 }
   ]
+
+  const [searchParams, setSearchParams] = useSearchParams()
+  const initialTopic = searchParams.get('topic')
+  const [activeCategory, setActiveCategory] = useState(
+    categories.some((c) => c.id === initialTopic) ? initialTopic : 'all'
+  )
+
+  useEffect(() => {
+    const param = searchParams.get('topic')
+    const valid = categories.some((c) => c.id === param) ? param : 'all'
+    if (valid !== activeCategory) {
+      setActiveCategory(valid)
+    }
+  }, [searchParams, categories, activeCategory])
+
+  useEffect(() => {
+    setSearchParams(
+      activeCategory === 'all' ? {} : { topic: activeCategory },
+      { replace: true }
+    )
+  }, [activeCategory, setSearchParams])
 
   const newsItems = [
     // Policy Updates
@@ -1445,6 +1465,14 @@ The findings have also been submitted to the government's national review, provi
             Latest updates, success stories, and voices from communities affected by short-term rentals
           </p>
 
+          <div className="mt-6 mb-12 flex justify-center">
+            <NewsTopicSelect
+              categories={categories}
+              value={activeCategory}
+              onChange={setActiveCategory}
+            />
+          </div>
+
           {/* Featured Stories */}
           {activeCategory === 'all' && (
             <div className="mb-12">
@@ -1465,7 +1493,11 @@ The findings have also been submitted to the government's national review, provi
                         <Calendar className="mr-1" size={14} />
                         {new Date(item.date).toLocaleDateString()}
                       </span>
-                      <Button variant="outline" size="sm" className="text-host-red border-host-red hover:bg-host-red hover:text-white">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        className="text-host-red border-host-red hover:bg-host-red hover:text-white"
+                      >
                         Read More
                       </Button>
                     </div>
@@ -1474,28 +1506,6 @@ The findings have also been submitted to the government's national review, provi
               </div>
             </div>
           )}
-
-          {/* Category Filter */}
-          <div className="mb-8">
-            <div className="bg-white rounded-xl shadow-lg border border-gray-100 p-6">
-              <div className="grid grid-cols-2 md:grid-cols-6 gap-3">
-                {categories.map((category) => (
-                  <button
-                    key={category.id}
-                    onClick={() => setActiveCategory(category.id)}
-                    className={`p-3 rounded-lg text-center transition-all duration-300 ${
-                      activeCategory === category.id
-                        ? 'bg-host-red text-white shadow-lg'
-                        : 'bg-gray-50 text-gray-700 hover:bg-gray-100 hover:shadow-md'
-                    }`}
-                  >
-                    <div className="text-sm font-medium">{category.title}</div>
-                    <div className="text-xs opacity-75">({category.count})</div>
-                  </button>
-                ))}
-              </div>
-            </div>
-          </div>
 
           {/* News Articles */}
           <div className="space-y-6">
