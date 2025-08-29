@@ -220,7 +220,7 @@ const LandlordSection = () => {
                 <h3 className="text-2xl font-semibold mb-4 host-navy">The Community Impact</h3>
                 <p className="text-gray-600 mb-4">
                   Short-term rentals are hollowing out London's communities. Families are being displaced, 
-                  neighborhoods are losing their character, and the housing crisis is getting worse.
+                  neighbourhoods are losing their character, and the housing crisis is getting worse.
                 </p>
                 <p className="text-gray-600 mb-6">
                   As a property owner, you have the power to choose housing over profits. 
@@ -377,14 +377,14 @@ const AboutStorySection = () => {
       
       <div className="bg-gradient-to-r from-host-red/10 to-host-navy/10 p-6 rounded-lg mb-8">
         <p className="text-xl font-medium text-gray-800 mb-4">
-          HOST began when ordinary Londoners realized that their neighborhoods were disappearing, 
+          HOST began when ordinary Londoners realised that their neighbourhoods were disappearing,
           one Airbnb listing at a time.
         </p>
       </div>
 
       <h3 className="text-2xl font-semibold host-navy mb-4">The Spark</h3>
       <p className="mb-6">
-        In 2023, residents across London began noticing the same troubling pattern. Long-term neighbors were 
+        In 2023, residents across London began noticing the same troubling pattern. Long-term neighbours were
         disappearing, replaced by a constant stream of tourists wheeling suitcases through residential buildings. 
         Families who had lived in communities for decades were being priced out, while entire apartment blocks 
         transformed into informal hotels.
@@ -407,8 +407,8 @@ const AboutStorySection = () => {
 
       <p className="mb-6">
         HOST emerged from this grassroots movement, combining the passion of affected residents with 
-        rigorous research and policy expertise. We realized that scattered individual complaints would 
-        never create the systemic change needed. Instead, we needed to organize, document, and advocate 
+        rigorous research and policy expertise. We realised that scattered individual complaints would
+        never create the systemic change needed. Instead, we needed to organise, document, and advocate
         for comprehensive solutions.
       </p>
 
@@ -420,7 +420,7 @@ const AboutStorySection = () => {
       </p>
 
       <p className="mb-6">
-        We've seen the power of organized community action. When Westminster Council began serious 
+        We've seen the power of organised community action. When Westminster Council began serious
         enforcement against illegal short-term rentals, they returned 50 properties to residential use 
         in just one month. This success story proves that change is possible when communities demand it.
       </p>
@@ -429,7 +429,7 @@ const AboutStorySection = () => {
         <h4 className="text-xl font-semibold mb-3">Why HOST Matters</h4>
         <p className="mb-4">
           We're not anti-tourism or anti-innovation. We're pro-community, pro-housing, and pro-sustainability. 
-          London's strength has always been its diverse, vibrant neighborhoods where people build lives, 
+          London's strength has always been its diverse, vibrant neighbourhoods where people build lives,
           raise families, and create lasting communities.
         </p>
         <p>
@@ -458,7 +458,7 @@ const AboutMissionSection = () => {
         <div className="bg-host-navy text-white p-6 rounded-lg">
           <h3 className="text-2xl font-semibold mb-4">Our Vision</h3>
           <p className="text-lg">
-            A London where every neighborhood thrives with permanent residents, where housing is 
+            A London where every neighbourhood thrives with permanent residents, where housing is
             affordable, and where communities are built to last.
           </p>
         </div>
@@ -471,7 +471,7 @@ const AboutMissionSection = () => {
           <h4 className="text-xl font-semibold host-red mb-3">Community First</h4>
           <p>
             We believe that housing policy should prioritize the needs of permanent residents and 
-            local communities over short-term profit maximization.
+            local communities over short-term profit maximisation.
           </p>
         </div>
         <div className="border border-gray-200 p-6 rounded-lg">
@@ -518,7 +518,7 @@ const AboutMissionSection = () => {
           <div className="w-2 h-2 bg-host-red rounded-full mt-3"></div>
           <p>
             <strong>Democratic Participation:</strong> Residents should have a meaningful voice in decisions 
-            that affect their neighborhoods and housing security.
+            that affect their neighbourhoods and housing security.
           </p>
         </div>
         <div className="flex items-start space-x-3">
@@ -534,12 +534,12 @@ const AboutMissionSection = () => {
         <h4 className="text-xl font-semibold host-navy mb-3">Our Commitment</h4>
         <p className="mb-4">
           HOST is committed to transparent, accountable campaigning that puts community needs first. 
-          We work collaboratively with local authorities, housing organizations, and resident groups 
+          We work collaboratively with local authorities, housing organisations, and resident groups 
           to build broad coalitions for change.
         </p>
         <p>
           We measure our success not just in policy wins, but in the number of families who can 
-          remain in their communities, the strength of neighborhood connections, and the long-term 
+          remain in their communities, the strength of neighbourhood connections, and the long-term
           sustainability of London as a place where people live, not just visit.
         </p>
       </div>
@@ -574,7 +574,7 @@ const AboutBackgroundSection = () => {
       <h3 className="text-2xl font-semibold host-navy mb-4">Research Methodology</h3>
       <p className="mb-6">
         Our research combines multiple data sources to provide a comprehensive picture of short-term 
-        rental impact on London's housing market. We analyze platform data, planning applications, 
+        rental impact on London's housing market. We analyse platform data, planning applications, 
         council enforcement records, and community reports to track trends and identify hotspots.
       </p>
 
@@ -598,7 +598,7 @@ const AboutBackgroundSection = () => {
           <h5 className="font-semibold mb-2">Community Reports</h5>
           <p className="text-sm text-gray-600">
             Direct reports from residents about suspected illegal operations, community impact, 
-            and enforcement needs in their neighborhoods.
+            and enforcement needs in their neighbourhoods.
           </p>
         </div>
         <div className="border border-gray-200 p-4 rounded-lg">
@@ -629,8 +629,8 @@ const AboutBackgroundSection = () => {
       <h4 className="text-xl font-semibold host-red mb-3">Community Impact</h4>
       <p className="mb-6">
         Beyond housing numbers, our research documents significant impacts on community cohesion, 
-        local services, and neighborhood character. Areas with high short-term rental concentrations 
-        report increased antisocial behavior, reduced community participation, and loss of local amenities.
+        local services, and neighbourhood character. Areas with high short-term rental concentrations 
+        report increased antisocial behaviour, reduced community participation, and loss of local amenities.
       </p>
 
       <h3 className="text-2xl font-semibold host-navy mb-4">International Context</h3>
@@ -664,8 +664,8 @@ const AboutTeamSection = () => {
 
       <div className="bg-gradient-to-r from-host-red/10 to-host-navy/10 p-6 rounded-lg mb-8">
         <p className="text-xl font-medium text-gray-800">
-          HOST is powered by a diverse team of residents, researchers, policy experts, and community 
-          organizers united by a shared commitment to housing justice in London.
+          HOST is powered by a diverse team of residents, researchers, policy experts, and community
+          organisers united by a shared commitment to housing justice in London.
         </p>
       </div>
 
@@ -675,7 +675,7 @@ const AboutTeamSection = () => {
         <div className="border border-gray-200 p-6 rounded-lg">
           <h4 className="text-xl font-semibold host-red mb-2">Campaign Coordination</h4>
           <p className="text-gray-600 mb-4">
-            Our campaign coordinators bring together community organizing experience, policy expertise, 
+            Our campaign coordinators bring together community organising experience, policy expertise,
             and deep knowledge of London's housing landscape.
           </p>
           <ul className="text-sm space-y-1">
@@ -699,9 +699,9 @@ const AboutTeamSection = () => {
         </div>
 
         <div className="border border-gray-200 p-6 rounded-lg">
-          <h4 className="text-xl font-semibold host-red mb-2">Community Organizing</h4>
+          <h4 className="text-xl font-semibold host-red mb-2">Community Organising</h4>
           <p className="text-gray-600 mb-4">
-            Experienced community organizers help residents connect, share experiences, and take 
+            Experienced community organisers help residents connect, share experiences, and take
             collective action for housing justice.
           </p>
           <ul className="text-sm space-y-1">
@@ -747,7 +747,7 @@ const AboutTeamSection = () => {
         <div className="text-center p-4 bg-gray-50 rounded-lg">
           <h4 className="font-semibold host-navy mb-2">Community Leaders</h4>
           <p className="text-sm text-gray-600">
-            Residents and advocates with extensive experience in local organizing and community development.
+            Residents and advocates with extensive experience in local organising and community development.
           </p>
         </div>
       </div>
@@ -770,7 +770,7 @@ const AboutTeamSection = () => {
             <strong>Skills We Need:</strong>
             <ul className="mt-2 space-y-1">
               <li>• Research and data analysis</li>
-              <li>• Community organizing</li>
+              <li>• Community organising</li>
               <li>• Communications and media</li>
               <li>• Legal and policy expertise</li>
             </ul>
@@ -779,7 +779,7 @@ const AboutTeamSection = () => {
             <strong>Ways to Contribute:</strong>
             <ul className="mt-2 space-y-1">
               <li>• Local area monitoring</li>
-              <li>• Event organizing</li>
+              <li>• Event organising</li>
               <li>• Social media support</li>
               <li>• Translation services</li>
             </ul>
@@ -807,7 +807,7 @@ const AboutHowWeWorkSection = () => {
 
       <div className="bg-gradient-to-r from-host-red/10 to-host-navy/10 p-6 rounded-lg mb-8">
         <p className="text-xl font-medium text-gray-800">
-          HOST combines grassroots organizing with evidence-based advocacy to create lasting change 
+          HOST combines grassroots organising with evidence-based advocacy to create lasting change
           in London's housing landscape.
         </p>
       </div>
@@ -819,7 +819,7 @@ const AboutHowWeWorkSection = () => {
           <h4 className="text-xl font-semibold host-navy mb-3">Community-Led</h4>
           <p className="mb-4">
             Our campaigns start with residents who are directly affected by short-term rental impacts. 
-            We provide tools, resources, and support to help communities organize and advocate for themselves.
+            We provide tools, resources, and support to help communities organise and advocate for themselves.
           </p>
           <ul className="text-sm space-y-1 text-gray-600">
             <li>• Resident-led problem identification</li>
@@ -908,7 +908,7 @@ const AboutHowWeWorkSection = () => {
           <h4 className="text-lg font-semibold host-red mb-3">Digital Platform</h4>
           <p className="text-gray-600 mb-4">
             Our website provides tools for residents to report problems, contact their MPs, 
-            and access resources for community organizing.
+            and access resources for community organising.
           </p>
           <ul className="text-sm space-y-1">
             <li>• Property reporting system</li>
@@ -933,7 +933,7 @@ const AboutHowWeWorkSection = () => {
 
       <h3 className="text-2xl font-semibold host-navy mb-4">Partnerships & Collaboration</h3>
       <p className="mb-6">
-        HOST works collaboratively with a wide range of organizations and stakeholders to build 
+        HOST works collaboratively with a wide range of organisations and stakeholders to build 
         broad coalitions for change. We believe that sustainable solutions require diverse perspectives 
         and shared commitment.
       </p>
@@ -948,7 +948,7 @@ const AboutHowWeWorkSection = () => {
         <div className="text-center p-4 border border-gray-200 rounded-lg">
           <h4 className="font-semibold host-navy mb-2">Housing Organizations</h4>
           <p className="text-sm text-gray-600">
-            Collaborating with housing charities, tenant groups, and advocacy organizations.
+            Collaborating with housing charities, tenant groups, and advocacy organisations.
           </p>
         </div>
         <div className="text-center p-4 border border-gray-200 rounded-lg">
@@ -1048,15 +1048,15 @@ The announcement follows successful lobbying by housing campaigners, including H
       id: 3,
       title: "Camden Introduces 90-Day Annual Limit for Short-Term Rentals",
       date: "2025-01-08",
-      summary: "Following successful pilot program, Camden Council implements strict annual limits on short-term rental operations to protect residential communities.",
+      summary: "Following successful pilot programme, Camden Council implements strict annual limits on short-term rental operations to protect residential communities.",
       category: "policy",
       categoryLabel: "Policy Update",
       readTime: "3 min read",
-      content: `Camden Council has become the first London borough to implement a strict 90-day annual limit on short-term rental operations, following the success of a pilot program in the King's Cross area. The new policy, which takes effect immediately, aims to prevent the wholesale conversion of residential properties to tourist accommodation.
+      content: `Camden Council has become the first London borough to implement a strict 90-day annual limit on short-term rental operations, following the success of a pilot programme in the King's Cross area. The new policy, which takes effect immediately, aims to prevent the wholesale conversion of residential properties to tourist accommodation.
 
 The 90-day limit applies to entire properties rented as short-term accommodation, with property owners required to demonstrate compliance through detailed booking records. Properties exceeding the limit will be considered to have changed use from residential to commercial, requiring planning permission.
 
-Camden's pilot program in King's Cross, running since September 2024, saw a 40% reduction in short-term rental listings and a corresponding increase in long-term rental availability. Local estate agents reported increased interest from long-term tenants and stabilizing rental prices in the area.
+Camden's pilot programme in King's Cross, running since September 2024, saw a 40% reduction in short-term rental listings and a corresponding increase in long-term rental availability. Local estate agents reported increased interest from long-term tenants and stabilizing rental prices in the area.
 
 "The pilot results clearly demonstrate that sensible limits on short-term rentals can restore housing to communities without eliminating tourism accommodation entirely," said Camden's Cabinet Member for Housing.
 
@@ -1082,7 +1082,7 @@ The review will examine several key areas: the adequacy of current planning and 
 
 "We're committed to ensuring that the growth of short-term rentals doesn't come at the expense of local housing needs," said the Housing Minister. "This review will provide the evidence base for any necessary changes to national policy."
 
-The review team will include representatives from local government, the tourism industry, housing organizations, and platform companies. Public consultation will begin in March 2025, with particular focus on gathering evidence from affected communities.
+The review team will include representatives from local government, the tourism industry, housing organisations, and platform companies. Public consultation will begin in March 2025, with particular focus on gathering evidence from affected communities.
 
 Potential outcomes include national registration requirements, standardized annual limits, enhanced enforcement powers for local authorities, and mandatory data sharing from platform companies. The review is expected to report by the end of 2025, with any legislative changes potentially taking effect in 2026.
 
@@ -1094,22 +1094,22 @@ Housing campaigners have welcomed the review while emphasizing the need for imme
       id: 5,
       title: "Hackney's Licensing Scheme Reduces Illegal Airbnb Operations by 60%",
       date: "2025-01-10",
-      summary: "Comprehensive licensing and enforcement program demonstrates how local action can effectively regulate short-term rentals while supporting communities.",
+      summary: "Comprehensive licensing and enforcement programme demonstrates how local action can effectively regulate short-term rentals while supporting communities.",
       category: "success",
       categoryLabel: "Borough Success",
       readTime: "4 min read",
       featured: true,
       content: `Hackney Council's innovative licensing scheme has achieved a 60% reduction in illegal short-term rental operations over the past 18 months, demonstrating how comprehensive local regulation can effectively balance tourism with community housing needs.
 
-The scheme, launched in July 2023, requires all short-term rental operators to obtain licenses demonstrating compliance with planning, fire safety, and community standards. The licensing process includes neighbor consultation, property inspections, and ongoing monitoring requirements.
+The scheme, launched in July 2023, requires all short-term rental operators to obtain licences demonstrating compliance with planning, fire safety, and community standards. The licensing process includes neighbour consultation, property inspections, and ongoing monitoring requirements.
 
 "The results speak for themselves," said Hackney's Cabinet Member for Housing. "We've seen hundreds of properties return to the long-term rental market while maintaining space for legitimate, well-managed short-term accommodation."
 
-The licensing scheme includes several innovative features: mandatory neighbor notification for all applications, annual compliance checks, a community reporting system, and penalties including license revocation for non-compliance. License fees are set at cost-recovery levels, ensuring the scheme is self-funding.
+The licensing scheme includes several innovative features: mandatory neighbour notification for all applications, annual compliance checks, a community reporting system, and penalties including licence revocation for non-compliance. Licence fees are set at cost-recovery levels, ensuring the scheme is self-funding.
 
-Data from the first 18 months shows 847 properties applied for licenses, with 623 approved and 224 refused or withdrawn. Of the refused applications, 180 properties have returned to long-term residential use, providing homes for an estimated 540 residents.
+Data from the first 18 months shows 847 properties applied for licences, with 623 approved and 224 refused or withdrawn. Of the refused applications, 180 properties have returned to long-term residential use, providing homes for an estimated 540 residents.
 
-The scheme has also improved the quality of legitimate short-term rentals, with licensed properties required to meet higher standards for fire safety, noise management, and waste disposal. Neighbor complaints about short-term rentals have decreased by 75% since the scheme's introduction.
+The scheme has also improved the quality of legitimate short-term rentals, with licensed properties required to meet higher standards for fire safety, noise management, and waste disposal. Neighbour complaints about short-term rentals have decreased by 75% since the scheme's introduction.
 
 Hackney's approach has attracted attention from across London and beyond, with delegations from other councils visiting to study the implementation. The council has published a detailed guide to help other authorities develop similar schemes.
 
@@ -1123,23 +1123,23 @@ Hackney's approach has attracted attention from across London and beyond, with d
       category: "success",
       categoryLabel: "Borough Success",
       readTime: "3 min read",
-      content: `Southwark Council's community-led enforcement program has successfully returned 30 illegally operated short-term rental properties to residential use, demonstrating the power of partnership between local authorities and engaged residents.
+      content: `Southwark Council's community-led enforcement programme has successfully returned 30 illegally operated short-term rental properties to residential use, demonstrating the power of partnership between local authorities and engaged residents.
 
-The program, launched in partnership with local tenant and resident associations, trains community volunteers to identify and report suspected illegal short-term rental operations. Volunteers receive training on planning law, evidence gathering, and the reporting process.
+The programme, launched in partnership with local tenant and resident associations, trains community volunteers to identify and report suspected illegal short-term rental operations. Volunteers receive training on planning law, evidence gathering, and the reporting process.
 
-"Residents know their neighborhoods better than anyone," said Southwark's enforcement team leader. "By working with communities, we can identify problems quickly and take targeted action."
+"Residents know their neighbourhoods better than anyone," said Southwark's enforcement team leader. "By working with communities, we can identify problems quickly and take targeted action."
 
-The program operates through a network of 45 trained community monitors across the borough, each responsible for a specific area. Monitors use a dedicated app to report suspected illegal operations, providing photos, platform listings, and witness statements.
+The programme operates through a network of 45 trained community monitors across the borough, each responsible for a specific area. Monitors use a dedicated app to report suspected illegal operations, providing photos, platform listings, and witness statements.
 
-Since the program's launch in September 2024, community monitors have submitted 127 reports, leading to formal investigations of 89 properties. Of these, 30 have been confirmed as illegal operations and returned to residential use, while others have obtained proper permissions or ceased short-term rental operations.
+Since the programme's launch in September 2024, community monitors have submitted 127 reports, leading to formal investigations of 89 properties. Of these, 30 have been confirmed as illegal operations and returned to residential use, while others have obtained proper permissions or ceased short-term rental operations.
 
 The success rate reflects the quality of community reporting and the council's commitment to rapid response. The average time from initial report to enforcement action has been reduced from six months to six weeks.
 
-The program has also strengthened community cohesion, with residents reporting increased confidence in their ability to influence local housing issues. Several resident associations have expanded their activities to include broader housing advocacy.
+The programme has also strengthened community cohesion, with residents reporting increased confidence in their ability to influence local housing issues. Several resident associations have expanded their activities to include broader housing advocacy.
 
-"This shows what's possible when councils trust residents and provide them with the tools to protect their communities," said a program participant. "We're not anti-tourism, but we want tourism that works for everyone."
+"This shows what's possible when councils trust residents and provide them with the tools to protect their communities," said a programme participant. "We're not anti-tourism, but we want tourism that works for everyone."
 
-Other councils are now developing similar community-led programs, with Southwark providing training and support to help replicate the model across London.`
+Other councils are now developing similar community-led programmes, with Southwark providing training and support to help replicate the model across London.`
     },
     {
       id: 7,
@@ -1178,7 +1178,7 @@ The council has also worked with platform companies to remove non-compliant list
       featured: true,
       content: `Sarah Martinez thought she had found stability for her family when she signed a two-year lease on a three-bedroom flat in Bethnal Green. Eight months later, she received 30 days' notice that her landlord was converting the property to short-term rental accommodation.
 
-"I couldn't believe it," Sarah recalls. "We had made this place our home. My children had settled into local schools, we knew our neighbors, we were part of the community. Then suddenly we were told we had to leave so the flat could become a holiday rental."
+"I couldn't believe it," Sarah recalls. "We had made this place our home. My children had settled into local schools, we knew our neighbours, we were part of the community. Then suddenly we were told we had to leave so the flat could become a holiday rental."
 
 Sarah's landlord, who owns several properties in the area, explained that he could earn three times more from short-term rentals than from long-term tenants. Despite Sarah's offer to pay increased rent, he proceeded with the conversion.
 
@@ -1206,15 +1206,15 @@ Sarah has since become involved with local housing campaigns, sharing her story 
       readTime: "4 min read",
       content: `Marcus Thompson has lived in the same Bloomsbury apartment building for 15 years, watching it transform from a close-knit residential community into what he describes as "an informal hotel with no management."
 
-When Marcus first moved to the Victorian conversion in 2010, he knew all his neighbors. The building had eight flats, housing a mix of young professionals, families, and retirees who looked out for each other. Today, only Marcus and one elderly neighbor remain as permanent residents.
+When Marcus first moved to the Victorian conversion in 2010, he knew all his neighbours. The building had eight flats, housing a mix of young professionals, families, and retirees who looked out for each other. Today, only Marcus and one elderly neighbour remain as permanent residents.
 
-"It happened gradually, then all at once," Marcus explains. "First one flat became an Airbnb, then another. The landlords realized they could make much more money from tourists than from tenants like us."
+"It happened gradually, then all at once," Marcus explains. "First one flat became an Airbnb, then another. The landlords realised they could make much more money from tourists than from tenants like us."
 
 The transformation has brought daily challenges Marcus never anticipated. The building's entrance is constantly busy with tourists arriving and departing with luggage, often late at night or early in the morning. The shared hallways are frequently cluttered with suitcases and delivery packages.
 
 "I used to feel safe here," Marcus says. "I knew who belonged in the building and who didn't. Now there are strangers coming and going constantly. I don't know if someone's a legitimate guest or if they're supposed to be here."
 
-The sense of community that Marcus valued has completely disappeared. Where neighbors once helped each other with packages, shared information about local issues, and socialized in the communal garden, there's now only the constant turnover of temporary visitors.
+The sense of community that Marcus valued has completely disappeared. Where neighbours once helped each other with packages, shared information about local issues, and socialized in the communal garden, there's now only the constant turnover of temporary visitors.
 
 "The worst part is the noise," Marcus explains. "These aren't people living here, they're people on holiday. They don't understand that others are trying to sleep, work from home, or just have some peace. I've had to call the police several times about parties that went on until 3 AM."
 
@@ -1224,11 +1224,11 @@ Marcus has considered moving but faces the same challenges as other long-term te
 
 "This used to be my home, my community," Marcus reflects. "Now I feel like a guest in my own building. I'm the one who doesn't belong anymore."
 
-Marcus's experience illustrates the broader community impact of short-term rental conversions, extending beyond housing numbers to questions of neighborhood character, safety, and social cohesion.`
+Marcus's experience illustrates the broader community impact of short-term rental conversions, extending beyond housing numbers to questions of neighbourhood character, safety, and social cohesion.`
     },
     {
       id: 10,
-      title: "Emma's Fight: Evicted So Landlord Could 'Maximize Returns'",
+      title: "Emma's Fight: Evicted So Landlord Could 'Maximise Returns'",
       date: "2025-01-06",
       summary: "Young professional's battle against eviction for Airbnb conversion highlights the vulnerability of tenants in London's housing market.",
       category: "personal",
@@ -1236,7 +1236,7 @@ Marcus's experience illustrates the broader community impact of short-term renta
       readTime: "4 min read",
       content: `Emma Chen's two-year battle to keep her Shoreditch flat demonstrates the lengths some landlords will go to convert properties to short-term rentals, and the limited protections available to tenants facing such conversions.
 
-Emma, a 29-year-old graphic designer, had lived in her one-bedroom flat for three years when her landlord first mentioned "maximizing the property's potential." Initially, she thought this meant cosmetic improvements or rent increases, not complete displacement.
+Emma, a 29-year-old graphic designer, had lived in her one-bedroom flat for three years when her landlord first mentioned "maximising the property's potential." Initially, she thought this meant cosmetic improvements or rent increases, not complete displacement.
 
 "He started by suggesting I might want to move somewhere 'more suitable for a young professional,'" Emma recalls. "When I said I was happy where I was, he became more direct about his plans to convert the flat for short-term rental."
 
@@ -1254,13 +1254,13 @@ Despite winning several legal battles, Emma ultimately lost the war. The landlor
 
 "The system is stacked against tenants," Emma reflects. "Even when landlords break the rules, they can usually find a way to get what they want eventually. The legal process is expensive and stressful, and most tenants can't sustain a long fight."
 
-Emma's former flat is now listed on Airbnb for £150 per night, generating approximately £4,000 per month compared to the £1,200 rent Emma was paying. The landlord's "maximized returns" came at the cost of displacing a long-term resident and removing another property from London's rental market.
+Emma's former flat is now listed on Airbnb for £150 per night, generating approximately £4,000 per month compared to the £1,200 rent Emma was paying. The landlord's "maximised returns" came at the cost of displacing a long-term resident and removing another property from London's rental market.
 
-Emma now lives in a shared house in Zone 4, paying more for less space and facing a much longer commute to work. "I lost my home, my neighborhood, and my faith in the rental system," she says. "All so someone could make more money from tourists."`
+Emma now lives in a shared house in Zone 4, paying more for less space and facing a much longer commute to work. "I lost my home, my neighbourhood, and my faith in the rental system," she says. "All so someone could make more money from tourists."`
     },
     {
       id: 11,
-      title: "David's Dilemma: Priced Out by Airbnb Boom in His Own Neighborhood",
+      title: "David's Dilemma: Priced Out by Airbnb Boom in His Own Neighbourhood",
       date: "2025-01-02",
       summary: "Local teacher forced to leave the community where he works as short-term rentals drive up housing costs beyond his reach.",
       category: "personal",
@@ -1296,7 +1296,7 @@ David's story is increasingly common among public sector workers in London. Teac
     // Airbnb Disasters
     {
       id: 12,
-      title: "Party House Horror: £15,000 Damage and Neighbors Flee Building",
+      title: "Party House Horror: £15,000 Damage and Neighbours Flee Building",
       date: "2025-01-08",
       summary: "Illegal Airbnb party in Hackney results in massive property damage, police intervention, and long-term residents considering moving away.",
       category: "disaster",
@@ -1304,17 +1304,17 @@ David's story is increasingly common among public sector workers in London. Teac
       readTime: "4 min read",
       content: `A weekend party at an illegal Airbnb in Hackney resulted in £15,000 worth of damage to a Victorian terrace house and has prompted several long-term residents to consider leaving the area permanently.
 
-The property, a four-bedroom house that had been operating as a short-term rental without planning permission, was booked by a group claiming to be "celebrating a birthday." Instead, they organized a party for over 50 people that lasted from Friday evening until Sunday morning.
+The property, a four-bedroom house that had been operating as a short-term rental without planning permission, was booked by a group claiming to be "celebrating a birthday." Instead, they organised a party for over 50 people that lasted from Friday evening until Sunday morning.
 
-"It was absolute chaos," said neighbor Janet Morrison, who lives next door with her elderly mother. "The music was so loud our windows were shaking. There were people in our garden, using our bins, urinating in the street. We called the police six times over the weekend."
+"It was absolute chaos," said neighbour Janet Morrison, who lives next door with her elderly mother. "The music was so loud our windows were shaking. There were people in our garden, using our bins, urinating in the street. We called the police six times over the weekend."
 
-The party caused extensive damage to the property: broken windows, holes punched in walls, damaged flooring, and a completely destroyed kitchen. The garden was left littered with bottles, drug paraphernalia, and human waste. The smell was so bad that neighboring properties had to keep windows closed for weeks.
+The party caused extensive damage to the property: broken windows, holes punched in walls, damaged flooring, and a completely destroyed kitchen. The garden was left littered with bottles, drug paraphernalia, and human waste. The smell was so bad that neighbouring properties had to keep windows closed for weeks.
 
 Police eventually intervened on Sunday morning after reports of a fight involving weapons. Three people were arrested, and the remaining party-goers were dispersed. The property was left in such poor condition that it required professional cleaning and extensive repairs.
 
-"The worst part was feeling completely helpless," explained neighbor Tom Chen. "We couldn't sleep, couldn't use our garden, couldn't have our windows open. And we knew this could happen again the next weekend."
+"The worst part was feeling completely helpless," explained neighbour Tom Chen. "We couldn't sleep, couldn't use our garden, couldn't have our windows open. And we knew this could happen again the next weekend."
 
-The incident revealed that the property had been operating illegally for over a year, generating complaints from neighbors that had been ignored by the platform and the property owner. The house had no proper licensing, no noise management plan, and no local contact for emergencies.
+The incident revealed that the property had been operating illegally for over a year, generating complaints from neighbours that had been ignored by the platform and the property owner. The house had no proper licensing, no noise management plan, and no local contact for emergencies.
 
 Local councillor Sarah Ahmed visited the scene and described it as "the worst example of irresponsible short-term rental operation" she had encountered. The council immediately began enforcement action against the property owner and contacted Airbnb to demand removal of the listing.
 
@@ -1322,7 +1322,7 @@ The impact on the community has been lasting. Three elderly residents have conta
 
 "This is what happens when there's no proper regulation or oversight," said a housing campaigner. "Platforms and property owners profit while communities pay the price in safety, security, and quality of life."
 
-The property owner, who lives abroad, initially refused to take responsibility for the damage or compensate affected neighbors. Only after legal action was threatened did they agree to cover repair costs and cease short-term rental operations.
+The property owner, who lives abroad, initially refused to take responsibility for the damage or compensate affected neighbours. Only after legal action was threatened did they agree to cover repair costs and cease short-term rental operations.
 
 The incident has become a rallying point for local residents demanding stricter regulation of short-term rentals and better enforcement of existing rules.`
     },
@@ -1330,11 +1330,11 @@ The incident has become a rallying point for local residents demanding stricter 
       id: 13,
       title: "Fire Safety Nightmare: Illegal Airbnb Lacks Basic Safety Equipment",
       date: "2025-01-04",
-      summary: "London Fire Brigade discovers dangerous safety violations at unlicensed short-term rental, highlighting risks to guests and neighbors.",
+      summary: "London Fire Brigade discovers dangerous safety violations at unlicensed short-term rental, highlighting risks to guests and neighbours.",
       category: "disaster",
       categoryLabel: "Airbnb Disaster",
       readTime: "3 min read",
-      content: `London Fire Brigade's inspection of an illegal Airbnb operation in Tower Hamlets revealed shocking safety violations that put both guests and neighboring residents at serious risk of injury or death in the event of a fire.
+      content: `London Fire Brigade's inspection of an illegal Airbnb operation in Tower Hamlets revealed shocking safety violations that put both guests and neighbouring residents at serious risk of injury or death in the event of a fire.
 
 The property, a converted Victorian house operating as multiple short-term rental units, was investigated following a small kitchen fire that required emergency response. What firefighters discovered was a catalogue of safety failures that violated multiple regulations.
 
@@ -1402,19 +1402,19 @@ The research has been submitted to the government's national review of short-ter
       category: "research",
       categoryLabel: "Research & Data",
       readTime: "4 min read",
-      content: `A sophisticated data analysis project has revealed that up to 60% of short-term rental listings in London may be operating without proper planning permissions or licenses, highlighting the massive scale of illegal operations across the capital.
+      content: `A sophisticated data analysis project has revealed that up to 60% of short-term rental listings in London may be operating without proper planning permissions or licences, highlighting the massive scale of illegal operations across the capital.
 
 The research, conducted by data scientists working with housing campaigners, used advanced algorithms to cross-reference platform listings with official planning and licensing databases. The results suggest that illegal operations far exceed previous estimates.
 
-"We developed machine learning models to identify patterns that indicate illegal operations," explained data scientist Dr. James Liu. "By analyzing listing characteristics, booking patterns, and regulatory compliance, we can predict with high accuracy which properties are operating illegally."
+"We developed machine learning models to identify patterns that indicate illegal operations," explained data scientist Dr. James Liu. "By analysing listing characteristics, booking patterns, and regulatory compliance, we can predict with high accuracy which properties are operating illegally."
 
 The analysis examined over 80,000 active listings across Airbnb, Booking.com, and other platforms, comparing them with planning permissions, licensing records, and council tax databases. The sophisticated matching process accounted for address variations, multiple listings for the same property, and attempts to obscure property locations.
 
-Key indicators of illegal operations include: properties listed as entire homes in areas where short-term rentals require planning permission, listings with no valid license numbers in boroughs with licensing schemes, properties with multiple listings under different names, and booking patterns suggesting permanent commercial operation.
+Key indicators of illegal operations include: properties listed as entire homes in areas where short-term rentals require planning permission, listings with no valid licence numbers in boroughs with licensing schemes, properties with multiple listings under different names, and booking patterns suggesting permanent commercial operation.
 
-The research found that illegal operations are concentrated in specific areas, with some neighborhoods showing illegal operation rates of over 80%. These areas typically have high tourist demand but limited enforcement resources.
+The research found that illegal operations are concentrated in specific areas, with some neighbourhoods showing illegal operation rates of over 80%. These areas typically have high tourist demand but limited enforcement resources.
 
-"The scale of illegal operations is far beyond what most people realize," said Dr. Liu. "We're not talking about occasional rule-breaking – this is systematic non-compliance with planning and licensing requirements."
+"The scale of illegal operations is far beyond what most people realise," said Dr. Liu. "We're not talking about occasional rule-breaking – this is systematic non-compliance with planning and licensing requirements."
 
 The analysis also revealed sophisticated attempts to evade detection and enforcement. These include: using multiple platform accounts to list the same property, deliberately obscuring exact addresses, rotating listings between different platforms, and using corporate structures to hide beneficial ownership.
 
@@ -1595,7 +1595,7 @@ const LandlordsPage = () => {
             <div className="max-w-4xl mx-auto text-center">
               <h2 className="text-3xl font-bold mb-4">We're Not Your Enemy</h2>
               <p className="text-xl mb-6">
-                We understand you're running a business and need to maximize returns. But there's a better way 
+                We understand you're running a business and need to maximise returns. But there's a better way 
                 to achieve financial success while supporting the communities that make London special.
               </p>
               <p className="text-lg opacity-90">
@@ -1679,7 +1679,7 @@ const LandlordOverviewSection = () => {
         <div className="border border-gray-200 p-6 rounded-lg">
           <h4 className="text-lg font-semibold host-red mb-3">Community Impact</h4>
           <p className="text-gray-600">
-            How your property decisions affect your neighbors, local services, and the long-term 
+            How your property decisions affect your neighbours, local services, and the long-term 
             sustainability of the communities where you invest.
           </p>
         </div>
@@ -1728,7 +1728,7 @@ const LandlordOverviewSection = () => {
 
       <p className="mb-6">
         If you do operate short-term rentals, do it legally, responsibly, and with consideration 
-        for your neighbors. If you're considering it, explore the alternatives first – you might 
+        for your neighbours. If you're considering it, explore the alternatives first – you might 
         find they offer better returns with less risk.
       </p>
 
@@ -1796,7 +1796,7 @@ const LandlordLegalSection = () => {
             <li>• Hackney (comprehensive scheme)</li>
             <li>• Camden (selective licensing)</li>
             <li>• Westminster (registration required)</li>
-            <li>• Southwark (pilot program)</li>
+            <li>• Southwark (pilot programme)</li>
             <li>• Tower Hamlets (under development)</li>
           </ul>
         </div>
@@ -1805,7 +1805,7 @@ const LandlordLegalSection = () => {
           <ul className="text-sm space-y-1">
             <li>• Planning permission verification</li>
             <li>• Fire safety compliance</li>
-            <li>• Neighbor consultation</li>
+            <li>• Neighbour consultation</li>
             <li>• Annual compliance checks</li>
             <li>• Fees: £500-£2,000 annually</li>
           </ul>
@@ -1913,7 +1913,7 @@ const LandlordLegalSection = () => {
           <div>
             <ul className="space-y-2">
               <li>✓ Planning permission (if required)</li>
-              <li>✓ Local authority license (if required)</li>
+              <li>✓ Local authority licence (if required)</li>
               <li>✓ Fire safety compliance certificate</li>
               <li>✓ Commercial insurance coverage</li>
             </ul>
@@ -1923,7 +1923,7 @@ const LandlordLegalSection = () => {
               <li>✓ Business rates registration</li>
               <li>✓ Tax compliance setup</li>
               <li>✓ Health and safety assessment</li>
-              <li>✓ Neighbor notification (where required)</li>
+              <li>✓ Neighbour notification (where required)</li>
             </ul>
           </div>
         </div>
@@ -2265,7 +2265,7 @@ const LandlordCommunitySection = () => {
           <h4 className="text-lg font-semibold host-red mb-3">Strong Communities Drive Value</h4>
           <ul className="text-sm space-y-2">
             <li>• Higher property appreciation rates</li>
-            <li>• Lower crime and antisocial behavior</li>
+            <li>• Lower crime and antisocial behaviour</li>
             <li>• Better maintained public spaces</li>
             <li>• Stronger local businesses and services</li>
             <li>• More attractive to quality tenants</li>
@@ -2293,7 +2293,7 @@ const LandlordCommunitySection = () => {
           <p className="mb-4">
             Every property converted to short-term rental removes a home from the residential 
             market, forcing families to move further away or pay higher rents. This displacement 
-            weakens the social fabric that makes neighborhoods desirable places to live and invest.
+            weakens the social fabric that makes neighbourhoods desirable places to live and invest.
           </p>
           <div className="bg-white p-4 rounded border-l-4 border-host-red">
             <p className="text-sm font-medium">Real Example:</p>
@@ -2309,13 +2309,13 @@ const LandlordCommunitySection = () => {
           <h4 className="text-lg font-semibold host-red mb-3">Loss of Community Cohesion</h4>
           <p className="mb-4">
             Permanent residents build relationships, participate in local activities, and invest 
-            in their neighborhoods. Short-term visitors have no stake in community wellbeing, 
+            in their neighbourhoods. Short-term visitors have no stake in community wellbeing, 
             leading to isolation and breakdown of social networks.
           </p>
           <div className="bg-white p-4 rounded border-l-4 border-host-red">
             <p className="text-sm font-medium">Real Example:</p>
             <p className="text-sm text-gray-600">
-              Marcus Thompson's building went from a close-knit community where neighbors knew 
+              Marcus Thompson's building went from a close-knit community where neighbours knew 
               each other to "an informal hotel with no management" where he feels unsafe and 
               isolated in his own home.
             </p>
@@ -2371,12 +2371,12 @@ const LandlordCommunitySection = () => {
         <div className="border border-gray-200 p-6 rounded-lg">
           <h4 className="text-lg font-semibold host-red mb-3">If You Must Operate Short-Term Rentals</h4>
           <ul className="text-sm space-y-2">
-            <li>• Obtain all required permissions and licenses</li>
-            <li>• Implement strict noise and behavior policies</li>
-            <li>• Provide 24/7 contact for neighbor concerns</li>
+            <li>• Obtain all required permissions and licences</li>
+            <li>• Implement strict noise and behaviour policies</li>
+            <li>• Provide 24/7 contact for neighbour concerns</li>
             <li>• Limit group sizes and party bookings</li>
             <li>• Contribute to local community initiatives</li>
-            <li>• Work with neighbors to address issues</li>
+            <li>• Work with neighbours to address issues</li>
           </ul>
         </div>
         <div className="border border-gray-200 p-6 rounded-lg">
@@ -2384,7 +2384,7 @@ const LandlordCommunitySection = () => {
           <ul className="text-sm space-y-2">
             <li>• Provide stable homes for local families</li>
             <li>• Support community schools and services</li>
-            <li>• Contribute to neighborhood stability</li>
+            <li>• Contribute to neighbourhood stability</li>
             <li>• Build positive relationships with residents</li>
             <li>• Invest in property improvements</li>
             <li>• Support local businesses and services</li>
@@ -2392,7 +2392,7 @@ const LandlordCommunitySection = () => {
         </div>
       </div>
 
-      <h3 className="text-2xl font-semibold host-navy mb-4">Community Voices: What Your Neighbors Are Saying</h3>
+      <h3 className="text-2xl font-semibold host-navy mb-4">Community Voices: What Your Neighbours Are Saying</h3>
       
       <div className="space-y-4 mb-8">
         <div className="bg-gray-50 p-4 rounded-lg border-l-4 border-host-red">
@@ -2426,7 +2426,7 @@ const LandlordCommunitySection = () => {
       <h3 className="text-2xl font-semibold host-navy mb-4">The Growing Backlash</h3>
       <p className="mb-6">
         Community opposition to short-term rentals is intensifying across London. Residents 
-        are organizing, councils are taking enforcement action, and politicians are responding 
+        are organising, councils are taking enforcement action, and politicians are responding 
         with stricter regulations. Landlords who ignore community concerns face increasing 
         regulatory and social pressure.
       </p>
@@ -2434,10 +2434,10 @@ const LandlordCommunitySection = () => {
       <div className="bg-yellow-50 p-6 rounded-lg mb-6">
         <h4 className="text-lg font-semibold text-yellow-800 mb-3">Recent Community Actions</h4>
         <ul className="text-yellow-700 space-y-2 text-sm">
-          <li>• Southwark's community-led enforcement program returned 30 properties to residential use</li>
+          <li>• Southwark's community-led enforcement programme returned 30 properties to residential use</li>
           <li>• Hackney residents successfully lobbied for comprehensive licensing scheme</li>
           <li>• Westminster community reports led to 50 properties being returned to housing</li>
-          <li>• Camden residents' pilot program resulted in borough-wide 90-day limits</li>
+          <li>• Camden residents' pilot programme resulted in borough-wide 90-day limits</li>
         </ul>
       </div>
 
@@ -2446,7 +2446,7 @@ const LandlordCommunitySection = () => {
         <p className="mb-4">
           You can be part of the problem or part of the solution. You can extract maximum 
           short-term profit while damaging the communities that make your investments valuable, 
-          or you can build long-term wealth while supporting the neighborhoods where you invest.
+          or you can build long-term wealth while supporting the neighbourhoods where you invest.
         </p>
         <p className="mb-4">
           Smart investors understand that sustainable returns come from sustainable communities. 
@@ -2493,7 +2493,7 @@ const LandlordAlternativesSection = () => {
               <li>• Professional property management</li>
               <li>• Responsive maintenance and improvements</li>
               <li>• Competitive but sustainable pricing</li>
-              <li>• Long-term tenant retention programs</li>
+              <li>• Long-term tenant retention programmes</li>
               <li>• Energy efficiency improvements</li>
             </ul>
           </div>
@@ -2517,7 +2517,7 @@ const LandlordAlternativesSection = () => {
         <div className="border border-gray-200 p-6 rounded-lg">
           <h4 className="text-lg font-semibold host-red mb-3">Corporate and Professional Accommodation</h4>
           <p className="mb-4">
-            Target business travelers, relocating professionals, and corporate clients who need 
+            Target business travellers, relocating professionals, and corporate clients who need 
             medium-term accommodation (1-12 months). This market offers higher rates than 
             standard rental with more stability than short-term letting.
           </p>
@@ -2527,7 +2527,7 @@ const LandlordAlternativesSection = () => {
               <ul className="mt-2 space-y-1">
                 <li>• Relocating executives and professionals</li>
                 <li>• Corporate project teams</li>
-                <li>• International business travelers</li>
+                <li>• International business travellers</li>
                 <li>• Temporary workers and contractors</li>
               </ul>
             </div>
@@ -2577,7 +2577,7 @@ const LandlordAlternativesSection = () => {
           <p className="mb-4">
             The build-to-rent sector is booming in London, offering opportunities for landlords 
             to participate in purpose-built rental developments or convert properties to 
-            co-living arrangements that maximize income while providing community-focused housing.
+            co-living arrangements that maximise income while providing community-focused housing.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
             <div>
@@ -2855,7 +2855,7 @@ const MediaPage = () => {
     },
     {
       date: '2024-12-05',
-      title: 'Camden Implements 90-Day Annual Limit Following Successful Pilot Program',
+      title: 'Camden Implements 90-Day Annual Limit Following Successful Pilot Programme',
       summary: 'First London borough to implement strict annual limits on short-term rental operations.',
       category: 'Borough Success',
       downloadUrl: '#'
@@ -2863,7 +2863,7 @@ const MediaPage = () => {
     {
       date: '2024-11-28',
       title: 'HOST Campaign Launches Borough Action Toolkit for Community Groups',
-      summary: 'New resources help residents organize effective local campaigns against illegal short-term rentals.',
+      summary: 'New resources help residents organise effective local campaigns against illegal short-term rentals.',
       category: 'Campaign Update',
       downloadUrl: '#'
     },
@@ -2882,14 +2882,14 @@ const MediaPage = () => {
       items: [
         {
           title: 'HOST Campaign Logo Pack',
-          description: 'High-resolution logos in PNG, SVG, and EPS formats. Includes main logo, horizontal, stacked, and grayscale versions.',
+          description: 'High-resolution logos in PNG, SVG, and EPS formats. Includes main logo, horizontal, stacked, and greyscale versions.',
           fileSize: '2.4 MB',
           format: 'ZIP',
           downloadUrl: '#'
         },
         {
           title: 'Brand Guidelines',
-          description: 'Complete brand identity guidelines including logo usage, color palette, typography, and design principles.',
+          description: 'Complete brand identity guidelines including logo usage, colour palette, typography, and design principles.',
           fileSize: '1.8 MB',
           format: 'PDF',
           downloadUrl: '#'
@@ -2934,7 +2934,7 @@ const MediaPage = () => {
         },
         {
           title: 'Community Action Toolkit',
-          description: 'Step-by-step guide for organizing local campaigns, including templates, checklists, and best practices.',
+          description: 'Step-by-step guide for organising local campaigns, including templates, checklists, and best practices.',
           fileSize: '2.9 MB',
           format: 'PDF',
           downloadUrl: '#'
@@ -3078,7 +3078,7 @@ const MediaPage = () => {
                   <h3 className="text-xl font-semibold mb-4">Media Alert Subscription</h3>
                   <p className="mb-4">
                     Stay updated with the latest press releases and campaign developments. 
-                    Subscribe to our media alerts for journalists and news organizations.
+                    Subscribe to our media alerts for journalists and news organisations.
                   </p>
                   <div className="flex gap-3">
                     <Input 
@@ -3188,7 +3188,7 @@ const MediaPage = () => {
                         <li>• Planning law and enforcement</li>
                         <li>• Borough-specific policy developments</li>
                         <li>• Regulatory solutions and best practices</li>
-                        <li>• Community organizing and grassroots campaigns</li>
+                        <li>• Community organising and grassroots campaigns</li>
                       </ul>
                     </div>
 
@@ -3329,11 +3329,11 @@ const GetInvolvedPage = () => {
       title: 'Build Community',
       icon: Users,
       color: 'bg-green-600',
-      description: 'Connect with neighbors and organize local action',
+      description: 'Connect with neighbours and organise local action',
       impact: 'Community Block',
       actions: [
         'Join local resident groups',
-        'Organize neighborhood meetings',
+        'Organise neighbourhood meetings',
         'Share experiences and strategies',
         'Coordinate collective action'
       ],
@@ -3367,7 +3367,7 @@ const GetInvolvedPage = () => {
         'Share campaign content on social media',
         'Tell friends and family about the issue',
         'Write to local newspapers',
-        'Organize awareness events'
+        'Organise awareness events'
       ],
       stats: '100K+ social media impressions',
       link: '#share'
@@ -3541,7 +3541,7 @@ const GetInvolvedPage = () => {
                     <h4 className="font-semibold text-green-700 mb-2">Westminster Success</h4>
                     <p className="text-sm text-gray-600">
                       "Thanks to community reports, Westminster Council returned 50 illegal short-term 
-                      rentals to residential use in just one month. Our neighborhood feels like home again."
+                      rentals to residential use in just one month. Our neighbourhood feels like home again."
                     </p>
                     <div className="text-xs text-gray-500 mt-2">- Sarah M., Westminster Resident</div>
                   </div>
@@ -3690,7 +3690,7 @@ const ContactMPPage = () => {
   const issues = [
     { id: 'housing_shortage', label: 'Loss of affordable rental properties' },
     { id: 'community_breakdown', label: 'Community breakdown and isolation' },
-    { id: 'noise_antisocial', label: 'Noise and antisocial behavior' },
+    { id: 'noise_antisocial', label: 'Noise and antisocial behaviour' },
     { id: 'safety_concerns', label: 'Safety concerns from unknown visitors' },
     { id: 'planning_violations', label: 'Illegal conversions and planning violations' }
   ]
@@ -3872,7 +3872,7 @@ const ContactMPPage = () => {
                 <textarea
                   value={personalImpact}
                   onChange={(e) => setPersonalImpact(e.target.value)}
-                  placeholder="e.g. I've been priced out of my neighborhood, experienced noise issues, or seen my community change..."
+                  placeholder="e.g. I've been priced out of my neighbourhood, experienced noise issues, or seen my community change..."
                   className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-host-red focus:border-transparent"
                   rows="4"
                 />
@@ -4073,7 +4073,7 @@ const PrivacyPage = () => {
 
               <h2 className="text-2xl font-bold host-navy mb-6">Data Security</h2>
               <p className="mb-6">
-                We implement appropriate technical and organizational measures to protect your personal information 
+                We implement appropriate technical and organisational measures to protect your personal information 
                 against unauthorized access, alteration, disclosure, or destruction. This includes encryption of 
                 sensitive data, secure hosting infrastructure, regular security audits, and access controls limiting 
                 who can view your information.
@@ -4144,7 +4144,7 @@ const TermsPage = () => {
 
               <h2 className="text-2xl font-bold host-navy mb-6">About HOST Campaign</h2>
               <p className="mb-6">
-                The HOST (Housing Over Short-Term Lets) Campaign is a grassroots advocacy organization working 
+                The HOST (Housing Over Short-Term Lets) Campaign is a grassroots advocacy organisation working 
                 to address the impact of short-term rentals on London's housing market. We provide information, 
                 tools, and resources to help residents, policymakers, and communities understand and respond to 
                 housing challenges.
@@ -4160,14 +4160,14 @@ const TermsPage = () => {
                 <li>Contact your Member of Parliament about housing issues</li>
                 <li>Download campaign materials and resources</li>
                 <li>Subscribe to newsletters and updates</li>
-                <li>Participate in community organizing activities</li>
+                <li>Participate in community organising activities</li>
               </ul>
 
               <h3 className="text-xl font-semibold host-red mb-4">Prohibited Uses</h3>
               <p className="mb-4">You may not use our services to:</p>
               <ul className="mb-6 space-y-2">
                 <li>Submit false, misleading, or malicious reports</li>
-                <li>Harass, threaten, or intimidate individuals or organizations</li>
+                <li>Harass, threaten, or intimidate individuals or organisations</li>
                 <li>Violate any applicable laws or regulations</li>
                 <li>Interfere with the operation of our website or services</li>
                 <li>Attempt to gain unauthorized access to our systems</li>
@@ -4278,15 +4278,15 @@ const LegalPage = () => {
               <h2 className="text-2xl font-bold host-navy mb-6">Organization Status</h2>
               <p className="mb-6">
                 The HOST (Housing Over Short-Term Lets) Campaign is an unincorporated grassroots advocacy 
-                organization operating in England and Wales. We are a volunteer-led campaign focused on 
-                housing policy advocacy and community organizing.
+                organisation operating in England and Wales. We are a volunteer-led campaign focused on 
+                housing policy advocacy and community organising.
               </p>
 
               <h2 className="text-2xl font-bold host-navy mb-6">Non-Profit Nature</h2>
               <p className="mb-6">
-                HOST Campaign operates as a non-profit advocacy organization. We do not seek to generate 
+                HOST Campaign operates as a non-profit advocacy organisation. We do not seek to generate 
                 profits for private benefit. Any funds received are used solely to support our campaign 
-                activities, including website maintenance, research, and community organizing efforts.
+                activities, including website maintenance, research, and community organising efforts.
               </p>
 
               <h2 className="text-2xl font-bold host-navy mb-6">Funding and Donations</h2>
@@ -4295,7 +4295,7 @@ const LegalPage = () => {
                 <h3 className="text-lg font-semibold text-blue-800 mb-2">Important Notice</h3>
                 <p className="text-blue-700">
                   HOST Campaign does not currently accept monetary donations or fundraising. We are a 
-                  volunteer-led organization that operates through community support and donated time.
+                  volunteer-led organisation that operates through community support and donated time.
                 </p>
               </div>
 
@@ -4332,15 +4332,15 @@ const LegalPage = () => {
               <p className="mb-6">
                 HOST Campaign is run entirely by volunteers who donate their time and expertise to advance 
                 our mission. We do not have paid staff or formal employment relationships. Volunteers 
-                participate in various capacities including research, community organizing, communications, 
+                participate in various capacities including research, community organising, communications, 
                 and website maintenance.
               </p>
 
               <h2 className="text-2xl font-bold host-navy mb-6">Partnerships and Affiliations</h2>
               <p className="mb-6">
-                HOST Campaign may work with other housing advocacy organizations, community groups, and 
+                HOST Campaign may work with other housing advocacy organisations, community groups, and 
                 research institutions on shared objectives. We maintain our independence and do not have 
-                formal affiliations with political parties or commercial organizations.
+                formal affiliations with political parties or commercial organisations.
               </p>
 
               <h2 className="text-2xl font-bold host-navy mb-6">Transparency and Accountability</h2>
@@ -4356,7 +4356,7 @@ const LegalPage = () => {
 
               <h2 className="text-2xl font-bold host-navy mb-6">Limitation of Liability</h2>
               <p className="mb-6">
-                As an unincorporated organization, HOST Campaign's liability is limited. Individual 
+                As an unincorporated organisation, HOST Campaign's liability is limited. Individual 
                 volunteers act in good faith to advance our mission but cannot be held personally liable 
                 for campaign activities undertaken in their volunteer capacity, except in cases of 
                 intentional wrongdoing or gross negligence.
@@ -4370,17 +4370,17 @@ const LegalPage = () => {
                 resolution mechanisms.
               </p>
 
-              <h2 className="text-2xl font-bold host-navy mb-6">Future Organizational Changes</h2>
+              <h2 className="text-2xl font-bold host-navy mb-6">Future Organisational Changes</h2>
               <p className="mb-6">
                 HOST Campaign may consider formal incorporation as a Community Interest Company (CIC), 
-                charitable organization, or other legal structure if our activities expand significantly. 
+                charitable organisation, or other legal structure if our activities expand significantly. 
                 Any such changes will be communicated clearly to our supporters and reflected in updates 
                 to this legal status page.
               </p>
 
               <h2 className="text-2xl font-bold host-navy mb-6">Contact Information</h2>
               <p className="mb-4">
-                For questions about our legal status or organizational structure:
+                For questions about our legal status or organisational structure:
               </p>
               <div className="bg-gray-50 p-4 rounded-lg">
                 <p><strong>Email:</strong> legal@hostcampaign.org</p>
